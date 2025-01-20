@@ -8,8 +8,8 @@
 	border-left-width:5px;
 	padding:10px;	
 
-#heading{
-	font-size:20px;
+.heading{
+	font-size:20 px;
 	color:white;
 	text-decoration:underline;
 }
