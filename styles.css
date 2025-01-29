@@ -1,6 +1,17 @@
-
 /* Your CSS Code here. */
 .main{
+	width: 200px;
+	background-color: purple;
+	border-left: 5px solid green;
+	padding: 10px;
+}
+.heading{
+	font-size: 20px;
+	color:white;
+	text-decoration: underline;
+}
+/* Your CSS Code here. */
+/* .main{
 	width:200px;
 	background-color:purple;
 	border: 1px solid;
@@ -12,4 +23,4 @@
 	font-size:32px;
 	color:rgb(255,255,255);
 	text-decoration:underline;
-}
+} */
